@@ -62,7 +62,7 @@ img.profile {
 img.network {
     max-width: 42%;
     height: auto;
-    margin-left: 100px;
+    padding-left: 100px;
     margin-bottom: 70px;
 }
 
