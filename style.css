@@ -19,7 +19,7 @@ body {
     background-color: #DFE4E5; /* Slightly darkened tab bar */
     border-radius: 30px; /* Rounded edges for the tab bar */
     box-shadow: 0 2px 5px rgba(0,0,0,0.2); /* Subtle shadow for depth */
-    padding: 0 80px; /* Adjusting padding to effectively add width */
+    padding: 50px; /* Adjusting padding to effectively add width */
 }
 
 .navigation ul li {
