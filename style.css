@@ -8,6 +8,8 @@ body {
 }
 
 .navigation {
+    display: flex;
+    justify-content: center;
     text-align: center; /* Center the navigation */
     margin-bottom: 20px; /* Space below the navigation */
 }
